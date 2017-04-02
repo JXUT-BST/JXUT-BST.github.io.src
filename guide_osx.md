@@ -72,3 +72,4 @@ deploy:
 ## 注意事项
 
 - 注意 hexo-deployer-git 是否安装到位
+- 修改之前先确认和GitHub上的最新版本保持同步
