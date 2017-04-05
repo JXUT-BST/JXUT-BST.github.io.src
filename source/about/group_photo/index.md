@@ -24,6 +24,10 @@ date: 2016-06-26 18:13:17
 
 ![](http://og9nrsw1n.bkt.clouddn.com/groupphoto_160718.jpeg)
 
+![](http://og9nrsw1n.bkt.clouddn.com/groupphoto_160625.JPG)
+
+![](http://og9nrsw1n.bkt.clouddn.com/groupphoto_160425.jpg)
+
 # 2015年
 
 # 2014年
