@@ -2,6 +2,9 @@
 title: 合影
 date: 2016-06-26 18:13:17
 ---
+# 2017年
+
+![](http://og9nrsw1n.bkt.clouddn.com/groupphoto_170405.JPG)
 
 # 2016年
 
