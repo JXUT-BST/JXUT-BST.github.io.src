@@ -65,7 +65,7 @@ deploy:
 
 第三步：执行 `hexo d` 安装部署
 
-第四步：执行 `sudo chmod 777 .auto_up.sh` 给自动部署文件提供可执行命令
+第四步：执行 `sudo chmod 777 auto_up.sh` 给自动部署文件提供可执行命令
 
 第五步：执行 `./auto_up.sh` 自动部署
 

@@ -11,6 +11,18 @@ date: 2016-06-26 12:58:45
 
 # <p style="color:red;" align="center">比赛荣誉</p>
 
+
+
+# 2016年
+
+## [<p align="center">全国赛</p>](./nationwide/2016/全国大学生汽车大赛/east/)
+
+## [<p align="center">江西省赛</p>](./jiangxi/2016/全国大学生汽车大赛/east/)
+
+# 2015
+
+## [<p align="center">江西省赛</p>](./jiangxi/2015/)
+
 ## 全国大学生智能汽车大赛
 
 |年份|赛区|获奖数|详情|
