@@ -5,5 +5,3 @@
 [OS X](guide_osx.md)
 
 [Linux](guide_linux.md)
-
-[Windows](guide_windows.md)
