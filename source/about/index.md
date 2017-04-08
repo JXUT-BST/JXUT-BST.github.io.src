@@ -35,7 +35,7 @@ JXUT @ BST
 QQ：624263934
 微信：future624
 	
-[LOGO](/uploads/avtar.png)
+[LOGO](/uploads/avatar.png)
 [LOGO 壁纸](/uploads/desktop.png)
 
 [加入我们](join/)
