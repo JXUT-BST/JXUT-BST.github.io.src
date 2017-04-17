@@ -1,5 +1,5 @@
 ---
-title: BST
+title: 荣誉墙
 date: 2017-03-26 00:08:33
 ---
 # <p style="color:red;" align="center">组织荣誉</p>
