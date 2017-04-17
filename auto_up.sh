@@ -10,5 +10,5 @@ git add *
 echo "提交"
 git commit -m "提交"
 echo "推送"
-git -c core.quotepath=false push --progress --porcelain origin refs/heads/master:master
+git -c core.quotepath=false push --progress --porcelain origin refs/heads/monster:monster
 echo "完毕"
