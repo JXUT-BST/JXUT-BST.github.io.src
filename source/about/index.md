@@ -10,8 +10,6 @@ date: 2016-06-26 18:13:17
 
 JXUT @ BST
 
-<embed src='http://player.youku.com/player.php/sid/XMTY4ODY5NjcyOA==/v.swf' allowFullScreen='true' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'></embed>
-
 <br/>
 
 # 蓝色技术工作室简介
