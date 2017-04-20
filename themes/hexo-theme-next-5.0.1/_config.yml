@@ -32,9 +32,9 @@ menu:
   finance: /finance
   bster: /bster
   software: /SoftwareGroup
-  electron: /electronGroup
-  smartcar: /smartcarGroup
-  modelairplane: /modelairplaneGroup
+  electron: /ElectronGroup
+  smartcar: /SmartCarGroup
+  modelairplane: /ModelAirplaneGroup
   about: /about
 #  categories: /categories
 #  archives: /archives
