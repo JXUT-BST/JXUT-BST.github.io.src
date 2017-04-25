@@ -54,10 +54,10 @@ menu_icons:
   bst: child
   timeline: calendar
   finance: yen
-  software: users
-  electron: users
-  smartcar: users
-  modelairplane: users
+  software: code
+  electron: microchip
+  smartcar: flag-checkered
+  modelairplane: fighter-jet
   bster: user
   about: users
   categories: th
