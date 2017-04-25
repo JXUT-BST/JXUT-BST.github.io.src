@@ -10,4 +10,4 @@ comments: false
 |光电组|三等奖|
 |光电组|优秀奖|
 
-[返回](/bst/honor/)
+[返回](/bst/)
