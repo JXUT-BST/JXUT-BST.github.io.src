@@ -31,7 +31,10 @@ date: 2016-06-26 18:13:17
 # 2015年
 
 # 2014年
-
+![](http://og9nrsw1n.bkt.clouddn.com/groupphoto_2014_1.jpg)
+![](http://og9nrsw1n.bkt.clouddn.com/groupphoto_2014_2.jpg)
+![](http://og9nrsw1n.bkt.clouddn.com/groupphoto_2014_3.jpg)
 # 2013年
 
+# 2012年
 [返回 关于 BST](../)
