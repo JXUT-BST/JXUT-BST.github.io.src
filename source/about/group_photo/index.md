@@ -61,6 +61,16 @@ date: 2016-06-26 18:13:17
 > 7月 江西 南昌 南昌大学
 
 # <p align="center">2013年</p>
+## <p align="center">中国大学生课外学术科技作品大赛江西赛区决赛</p>
+![](http://og9nrsw1n.bkt.clouddn.com/groupphoto_13_4.jpeg)
+
+> 9月 江西 南昌 江西财经大学
+
+## <p align="center">乐贝尔科技俱乐部</p>
+
+![](http://og9nrsw1n.bkt.clouddn.com/groupphoto_13_3.jpeg)
+
+> 9月 江西 南昌 江西科技学院
 
 ## <p align="center">第八届全国大学生智能汽车大赛</p>
 ![](http://og9nrsw1n.bkt.clouddn.com/groupphoto_13_1.jpg)
