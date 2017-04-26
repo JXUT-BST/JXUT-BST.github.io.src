@@ -136,7 +136,7 @@ font:
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 social:
   GitHub: https://www.github.com/JXUT-BST
-  JianShu: http://www.jianshu.com/c/c4a357e1ade3
+  简书: http://www.jianshu.com/c/c4a357e1ade3
 
 
 # Social Links Icons
@@ -190,7 +190,7 @@ sidebar:
 
 
 # Blogrolls
-links_title: Links
+links_title: 友情链接
 #links_layout: block
 #links_layout: inline
 links:
