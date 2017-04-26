@@ -68,6 +68,9 @@ date: 2016-06-26 18:13:17
 > 7月 江苏 常州 常州大学
 
 # <p align="center">2012年</p>
+## <p align="center">第七届全国大学生智能汽车大赛</p>
+![](http://og9nrsw1n.bkt.clouddn.com/groupphoto_12_2.jpeg)
+> 江苏 徐州 中国矿业大学 徐州工程学院
 
 ## <p align="center">江西省大学生智能机器人大赛</p>
 ![](http://og9nrsw1n.bkt.clouddn.com/groupphoto_12_1.jpg)
