@@ -7,7 +7,8 @@ date: 2016-06-26 18:13:17
 ![](http://og9nrsw1n.bkt.clouddn.com/groupphoto_170405.JPG)
 
 # 2016年
-
+> 11月 无人机应用大赛 南昌航空大学
+![](http://og9nrsw1n.bkt.clouddn.com/groupphoto_2016_11_04.jpg)
 > 9月 纳新
  
 ## 报告A厅 迎新见面会
