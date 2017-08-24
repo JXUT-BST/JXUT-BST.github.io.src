@@ -11,4 +11,4 @@ date: 2016-06-26 12:58:45
 ![](http://og9nrsw1n.bkt.clouddn.com/bst/honor/jiangxi/20133.jpg)
 ![](http://og9nrsw1n.bkt.clouddn.com/bst/honor/jiangxi/20134.jpg)
 ![](http://og9nrsw1n.bkt.clouddn.com/bst/honor/jiangxi/20136.jpg)
-[返回](/bst/honor/)
+[返回](/bst/)
