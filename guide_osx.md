@@ -32,13 +32,9 @@
 
 第一步：执行 `node` 测试 nodejs 是否安装成功
 
-第二步：执行 `hexo init temp` 初始化一个临时hexo项目
+第二步：执行 `git clone https://www.github.com/JXUT-BST/JXUT-BST.github.io.src.git` 将蓝色技术工作室官网克隆到本地
 
-第三步：执行 `git clone https://www.github.com/JXUT-BST/JXUT-BST.github.io.src.git` 将蓝色技术工作室官网克隆到本地
-
-第四步：将文件夹拷贝到克隆的目录中 `./temp/node_modules/ -> ./JXUT-BST.github.io.src/`
-
-第五步：执行 `npm install hexo-deployer-git --save` 安装hexo git模块
+第三步：执行 `npm install` 安装node模块
 
 ## 本地测试
 
