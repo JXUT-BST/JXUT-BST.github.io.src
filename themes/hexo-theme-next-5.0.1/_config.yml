@@ -31,10 +31,10 @@ menu:
   timeline: /timeline
   finance: /finance
   bster: /bster
-  software: /SoftwareGroup
-  electron: /ElectronGroup
-  smartcar: /SmartCarGroup
-  modelairplane: /ModelAirplaneGroup
+#  software: /SoftwareGroup
+#  electron: /ElectronGroup
+#  smartcar: /SmartCarGroup
+#  modelairplane: /ModelAirplaneGroup
   about: /about
 #  categories: /categories
 #  archives: /archives
