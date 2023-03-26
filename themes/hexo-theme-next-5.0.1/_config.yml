@@ -237,7 +237,7 @@ auto_excerpt:
 # Wechat Subscriber
 wechat_subscriber:
   enabled: true
-  qcode: http://bst.cooler-tec.com/wechat-qcode.jpg
+  qcode: http://bst.lansejishu.com/wechat-qcode.jpg
   description: 扫描二维码 关注 → 蓝色技术工作室
 
 

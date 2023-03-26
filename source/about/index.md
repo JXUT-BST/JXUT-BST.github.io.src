@@ -17,13 +17,13 @@ JXUT @ BST
 
 蓝色技术工作室的存在不单单只是一个学生社团，更是一个能体现江科学生知识技能和专业素养，展现我校雄厚教师资力量、优秀教育成果的一个开放式的平台。对内，它代表最高技术组织，是我校最高等级的专业人才汇聚的优秀学生团体。对外，它代表着江科荣誉，它是江科旗下的优秀教育成果，是我校唯一支有实力的能与全国各985、211院校同台竞技，在国赛和省赛中获奖的大学生科技型组织。
 
-![BST](http://bst.cooler-tec.com/groupphoto_160920.jpeg)
+![BST](http://bst.lansejishu.com/groupphoto_160920.jpeg)
 
 [更多合影](group_photo/)
 
 
 微信公众号:**lsjsedu**
-![](http://bst.cooler-tec.com/wechat-qcode.jpg)
+![](http://bst.lansejishu.com/wechat-qcode.jpg)
 
 ### [联系方式](contact/)
 
