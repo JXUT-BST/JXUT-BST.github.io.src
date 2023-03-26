@@ -36,8 +36,8 @@ menu:
 #  smartcar: /SmartCarGroup
 #  modelairplane: /ModelAirplaneGroup
   about: /about
-  zbox: http://x.lansejishu.cooler-tec.com/www/
-  newsite: http://lansejishu.cooler-tec.com/
+#  zbox: http://x.lansejishu.cooler-tec.com/www/
+#  newsite: http://lansejishu.cooler-tec.com/
 #  categories: /categories
 #  archives: /archives
 #  tags: /tags
@@ -54,8 +54,8 @@ menu_icons:
   #KeyMapsToMenuItemKey: NameOfTheIconFromFontAwesome
   home: home
   bst: child
-  zbox:  diamond
-  newsite:  diamond
+#  zbox:  diamond
+#  newsite:  diamond
   timeline: calendar
   finance: yen
   software: code
